@@ -80,11 +80,6 @@ This is a beginner-friendly project. Anyone can improve it by adding new feature
 
 ---
 
-## 📸 Screenshots
-
-
-## 🚀 Live Demo
-👉 Your link here
 
 ## 📄 License
 
