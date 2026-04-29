@@ -38,21 +38,6 @@ The idea is simple:
 * **CSS** – Styling and layout
 * **JavaScript** – Logic and interactivity
 
----
-
-## 📁 Project Structure
-
-```
-PageSense/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│   ├── images/
-│   └── data/
-```
-
----
 
 ## ▶️ How to Run the Project
 
@@ -94,6 +79,12 @@ The main objective of this project is to convert a simple idea into a working sy
 This is a beginner-friendly project. Anyone can improve it by adding new features, better UI, or smarter recommendation logic.
 
 ---
+
+## 📸 Screenshots
+
+
+## 🚀 Live Demo
+👉 Your link here
 
 ## 📄 License
 
